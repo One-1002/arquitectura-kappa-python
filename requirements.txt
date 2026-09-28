@@ -1,0 +1,3 @@
+# Este proyecto utiliza exclusivamente librerías estándar de Python 3 (json, time, random, datetime, os).
+# No se requieren dependencias externas adicionales vía pip.
+python>=3.8

@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Archivos de logs de la práctica
+*.log
+
+# Caché de Python
+__pycache__/
+*.pyc
